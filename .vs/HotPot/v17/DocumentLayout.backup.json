@@ -1,0 +1,1516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMMA\\source\\repos\\HotPot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\iadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\iadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\irestaurantadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\irestaurantadminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpottests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|solutionrelative:hotpottests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpottests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|solutionrelative:hotpottests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpottests\\restaurantusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|solutionrelative:hotpottests\\restaurantusertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpottests\\deliverypartnerservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|solutionrelative:hotpottests\\deliverypartnerservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpottests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791A8453-A565-41AC-ACF2-C06EAB596F45}|HotPotTests\\HotPotTests.csproj|solutionrelative:hotpottests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\contexts\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\contexts\\requesttrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\services\\restaurantuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\restaurantuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\emptycartexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\emptycartexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\citynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\citynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\controllers\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\registercustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\registercustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertorestaurantuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertorestaurantuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\icustomerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Migrations\\20241216102950_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotPot\\Migrations\\20241216102950_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\services\\deliverypartnerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\deliverypartnerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\restaurantspecialitiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\restaurantspecialitiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\restaurantownerrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\restaurantownerrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\deliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\deliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\customerreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\customerreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\customeraddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\customeraddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\registerrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\registerrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\registerdeliverypartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\registerdeliverypartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\paymentordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\paymentordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\ordermenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\ordermenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\orderitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\orderitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\menunamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\menunamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\customerreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\customerreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\customeraddressupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\customeraddressupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\dto\\cartmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\cartmenudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\restaurantspeciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\restaurantspeciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\restaurantowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\restaurantowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\nutritionalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\nutritionalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\customerreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\customerreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\models\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\customeraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertorestaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertodeliverypartneruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertodeliverypartneruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\mappers\\registertodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\mappers\\registertodeliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\ideliverypartnerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\ideliverypartnerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\irestaurantuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\irestaurantuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\interfaces\\irestaurantownerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\interfaces\\irestaurantownerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\statenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\statenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\specialitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\specialitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\reviewnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\reviewnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\restaurantnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\restaurantnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\paymentsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\paymentsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\paymentfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\paymentfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\ordersnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\ordersnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\nousersavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\nousersavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\nomenuavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\nomenuavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\nodeliverypartnerfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\nodeliverypartnerfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\nocustomerreviewfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\nocustomerreviewfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\nocustomeraddressfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\nocustomeraddressfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\invaliduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\exceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|c:\\users\\amma\\source\\repos\\hotpot\\hotpot\\migrations\\20241216122656_updatedcascadebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5662A403-7F96-47AF-9AD8-B8757B817D57}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\migrations\\20241216122656_updatedcascadebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryPartnerServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\DeliveryPartnerServicesTests.cs",
+              "RelativeDocumentMoniker": "HotPotTests\\DeliveryPartnerServicesTests.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\DeliveryPartnerServicesTests.cs",
+              "RelativeToolTip": "HotPotTests\\DeliveryPartnerServicesTests.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:05:54.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "HotPotTests\\CustomerTests.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\CustomerTests.cs",
+              "RelativeToolTip": "HotPotTests\\CustomerTests.cs",
+              "ViewState": "AgIAAMUCAAAAAAAAAAAgwMwCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:04:33.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HotPotTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\UnitTest1.cs",
+              "RelativeToolTip": "HotPotTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:03:17.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRestaurantAdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantAdminServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IRestaurantAdminServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantAdminServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IRestaurantAdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:39:44.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IAdminServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IAdminServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IAdminServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IAdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:38:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantUserTests.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\RestaurantUserTests.cs",
+              "RelativeDocumentMoniker": "HotPotTests\\RestaurantUserTests.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\RestaurantUserTests.cs",
+              "RelativeToolTip": "HotPotTests\\RestaurantUserTests.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAgwFEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:06:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\Usings.cs",
+              "RelativeDocumentMoniker": "HotPotTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPotTests\\Usings.cs",
+              "RelativeToolTip": "HotPotTests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:06:52.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\CityNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\CityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\CityNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\CityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:29:39.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmptyCartException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\EmptyCartException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\EmptyCartException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\EmptyCartException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\EmptyCartException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:29:55.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\RestaurantUserServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\RestaurantUserServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\RestaurantUserServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\RestaurantUserServices.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwIMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:11:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Contexts\\RequestTrackerContext.cs",
+              "RelativeDocumentMoniker": "HotPot\\Contexts\\RequestTrackerContext.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Contexts\\RequestTrackerContext.cs",
+              "RelativeToolTip": "HotPot\\Contexts\\RequestTrackerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:27:14.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:29:00.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliveryPartnerController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\DeliveryPartnerController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\DeliveryPartnerController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\DeliveryPartnerController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\DeliveryPartnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:28:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:28:10.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAB0AAACAmZmZmZkpwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:27:48.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20241216122656_updatedcascadebehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Migrations\\20241216122656_updatedcascadebehaviour.cs",
+              "RelativeDocumentMoniker": "HotPot\\Migrations\\20241216122656_updatedcascadebehaviour.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Migrations\\20241216122656_updatedcascadebehaviour.cs",
+              "RelativeToolTip": "HotPot\\Migrations\\20241216122656_updatedcascadebehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:26:56.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Program.cs",
+              "RelativeDocumentMoniker": "HotPot\\Program.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Program.cs",
+              "RelativeToolTip": "HotPot\\Program.cs",
+              "ViewState": "AgIAADUAAAAAmpmZmZkdwEQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:12:32.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\CustomerServices.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:10:52.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterCustomerDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\RegisterCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterCustomerDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\RegisterCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:05.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\LoginUserDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:58:47.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:03:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterToCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToCustomer.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToCustomer.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToCustomer.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:42:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Menu.cs",
+              "RelativeToolTip": "HotPot\\Models\\Menu.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Restaurant.cs",
+              "RelativeToolTip": "HotPot\\Models\\Restaurant.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:55:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Customer.cs",
+              "RelativeToolTip": "HotPot\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAEBUwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:52:31.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Cart.cs",
+              "RelativeToolTip": "HotPot\\Models\\Cart.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:51:53.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterToRestaurantUser.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToRestaurantUser.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToRestaurantUser.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToRestaurantUser.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToRestaurantUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:44:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\City.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\City.cs",
+              "RelativeToolTip": "HotPot\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:52:13.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\ICustomerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\ICustomerServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\ICustomerServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\ICustomerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:38:46.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\appsettings.json",
+              "RelativeDocumentMoniker": "HotPot\\appsettings.json",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\appsettings.json",
+              "RelativeToolTip": "HotPot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T10:12:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241216102950_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Migrations\\20241216102950_InitialMigration.cs",
+              "RelativeDocumentMoniker": "HotPot\\Migrations\\20241216102950_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Migrations\\20241216102950_InitialMigration.cs",
+              "RelativeToolTip": "HotPot\\Migrations\\20241216102950_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:29:51.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\OrderItem.cs",
+              "RelativeToolTip": "HotPot\\Models\\OrderItem.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:54:31.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Order.cs",
+              "RelativeToolTip": "HotPot\\Models\\Order.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:54:07.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\TokenServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\TokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:11:37.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeliveryPartnerServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\DeliveryPartnerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\DeliveryPartnerServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\DeliveryPartnerServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\DeliveryPartnerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:11:12.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\AdminServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Services\\AdminServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\AdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:10:36.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\RestaurantRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:07:32.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RestaurantSpecialitiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantSpecialitiesRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\RestaurantSpecialitiesRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantSpecialitiesRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\RestaurantSpecialitiesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:07:49.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\StateRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\StateRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\StateRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\StateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:08:04.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:08:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RestaurantOwnerRepository .cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantOwnerRepository .cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\RestaurantOwnerRepository .cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\RestaurantOwnerRepository .cs",
+              "RelativeToolTip": "HotPot\\Repositories\\RestaurantOwnerRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:07:15.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:06:58.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:06:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:06:31.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\MenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:05:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeliveryPartnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\DeliveryPartnerRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\DeliveryPartnerRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\DeliveryPartnerRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\DeliveryPartnerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:05:34.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CustomerReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerReviewRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\CustomerReviewRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerReviewRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\CustomerReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:05:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:04:01.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomerAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerAddressRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\CustomerAddressRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CustomerAddressRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\CustomerAddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:03:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\CityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:03:27.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterDeliveryPartnerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterDeliveryPartnerDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\RegisterDeliveryPartnerDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterDeliveryPartnerDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\RegisterDeliveryPartnerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:20.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterRestaurantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterRestaurantDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\RegisterRestaurantDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\RegisterRestaurantDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\RegisterRestaurantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:35.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:51.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PaymentOrdersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\PaymentOrdersDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\PaymentOrdersDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\PaymentOrdersDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\PaymentOrdersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:49.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderMenuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\OrderMenuDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\OrderMenuDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\OrderMenuDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\OrderMenuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:35.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderItemsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\OrderItemsDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\OrderItemsDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\OrderItemsDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\OrderItemsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MenuNameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\MenuNameDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\MenuNameDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\MenuNameDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\MenuNameDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:59:04.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerReviewUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CustomerReviewUpdateDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\CustomerReviewUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CustomerReviewUpdateDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\CustomerReviewUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:58:31.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CustomerAddressUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CustomerAddressUpdateDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\CustomerAddressUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CustomerAddressUpdateDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\CustomerAddressUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:58:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartMenuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CartMenuDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\CartMenuDTO.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DTO\\CartMenuDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\CartMenuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:57:58.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\Payment.cs",
+              "RelativeToolTip": "HotPot\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:54:47.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RestaurantOwner.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\RestaurantOwner.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\RestaurantOwner.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\RestaurantOwner.cs",
+              "RelativeToolTip": "HotPot\\Models\\RestaurantOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:55:19.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RestaurantSpeciality.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\RestaurantSpeciality.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\RestaurantSpeciality.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\RestaurantSpeciality.cs",
+              "RelativeToolTip": "HotPot\\Models\\RestaurantSpeciality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:55:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\State.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\State.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\State.cs",
+              "RelativeToolTip": "HotPot\\Models\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:01.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\User.cs",
+              "RelativeToolTip": "HotPot\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:15.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "NutritionalInfo.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\NutritionalInfo.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\NutritionalInfo.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\NutritionalInfo.cs",
+              "RelativeToolTip": "HotPot\\Models\\NutritionalInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:51.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DeliveryPartner.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\DeliveryPartner.cs",
+              "RelativeToolTip": "HotPot\\Models\\DeliveryPartner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CustomerReview.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\CustomerReview.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\CustomerReview.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\CustomerReview.cs",
+              "RelativeToolTip": "HotPot\\Models\\CustomerReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:53:04.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CustomerAddress.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\CustomerAddress.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\CustomerAddress.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Models\\CustomerAddress.cs",
+              "RelativeToolTip": "HotPot\\Models\\CustomerAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:52:49.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RegisterToDeliveryPartnerUser.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToDeliveryPartnerUser.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToDeliveryPartnerUser.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToDeliveryPartnerUser.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToDeliveryPartnerUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:42:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RegisterToRestaurant.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToRestaurant.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToRestaurant.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToRestaurant.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToRestaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:43:08.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RegisterToUser.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToUser.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToUser.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToUser.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:44:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RegisterToDeliveryPartner.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToDeliveryPartner.cs",
+              "RelativeDocumentMoniker": "HotPot\\Mappers\\RegisterToDeliveryPartner.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Mappers\\RegisterToDeliveryPartner.cs",
+              "RelativeToolTip": "HotPot\\Mappers\\RegisterToDeliveryPartner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:42:34.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRestaurantUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantUserServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IRestaurantUserServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantUserServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IRestaurantUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:40:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\ITokenServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\ITokenServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\ITokenServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:40:30.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IDeliveryPartnerServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IDeliveryPartnerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IDeliveryPartnerServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IDeliveryPartnerServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IDeliveryPartnerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:39:11.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:39:28.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IRestaurantOwnerServices.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantOwnerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Interfaces\\IRestaurantOwnerServices.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Interfaces\\IRestaurantOwnerServices.cs",
+              "RelativeToolTip": "HotPot\\Interfaces\\IRestaurantOwnerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:40:00.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ReviewNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\ReviewNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\ReviewNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\ReviewNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\ReviewNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SpecialityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\SpecialityNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\SpecialityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\SpecialityNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\SpecialityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:58.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "StateNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\StateNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\StateNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\StateNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\StateNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:36:15.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:36:30.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RestaurantNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\RestaurantNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\RestaurantNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\RestaurantNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\RestaurantNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PaymentsNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\PaymentsNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\PaymentsNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\PaymentsNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\PaymentsNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:35:13.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PaymentFailedException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\PaymentFailedException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\PaymentFailedException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\PaymentFailedException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\PaymentFailedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:34:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "OrdersNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\OrdersNotFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\OrdersNotFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\OrdersNotFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\OrdersNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:34:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "NoUsersAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoUsersAvailableException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\NoUsersAvailableException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoUsersAvailableException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\NoUsersAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:34:25.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "NoMenuAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoMenuAvailableException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\NoMenuAvailableException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoMenuAvailableException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\NoMenuAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:34:07.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "NoDeliveryPartnerFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoDeliveryPartnerFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\NoDeliveryPartnerFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoDeliveryPartnerFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\NoDeliveryPartnerFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:33:52.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "NoCustomerReviewFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoCustomerReviewFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\NoCustomerReviewFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoCustomerReviewFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\NoCustomerReviewFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:33:24.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "NoCustomerAddressFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoCustomerAddressFoundException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\NoCustomerAddressFoundException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\NoCustomerAddressFoundException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\NoCustomerAddressFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:33:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "InvalidUserException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\InvalidUserException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\InvalidUserException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\InvalidUserException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\InvalidUserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:30:30.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "HotPot\\Exceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\AMMA\\source\\repos\\HotPot\\HotPot\\Exceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "HotPot\\Exceptions\\InvalidPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:30:13.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
